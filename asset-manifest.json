@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pcit1/static/css/main.5364f0e9.css",
+    "main.js": "/Pcit1/static/js/main.84c32c4f.js",
+    "static/media/loay.png": "/Pcit1/static/media/loay.aa6a5c35eb38f5760b6e.png",
+    "index.html": "/Pcit1/index.html",
+    "main.5364f0e9.css.map": "/Pcit1/static/css/main.5364f0e9.css.map",
+    "main.84c32c4f.js.map": "/Pcit1/static/js/main.84c32c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5364f0e9.css",
+    "static/js/main.84c32c4f.js"
+  ]
+}
